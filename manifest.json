@@ -1,7 +1,7 @@
 {
     "manifest_version" : 3,
     "name" : "Reality Check",
-    "description" : "Base level Extension",
+    "description" : "Level 0 extension",
     "version" : "1.0",
     "action" : {
         "default_popup" : "hello.html",
